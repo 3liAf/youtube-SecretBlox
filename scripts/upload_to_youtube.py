@@ -7,6 +7,7 @@ import os
 import sys
 import json
 import argparse
+import subprocess
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -34,7 +35,6 @@ def get_authenticated_service(lang: str = "en"):
     
     if not os.path.exists(CLIENT_SECRET_FILE):
         print(f"❌ Error: Missing Google OAuth client_secret.json at {CLIENT_SECRET_FILE}")
-        print("Please place your OAuth Web/Desktop Client secret file in config/credentials/client_secret.json")
         sys.exit(1)
 
     creds = None
@@ -46,7 +46,7 @@ def get_authenticated_service(lang: str = "en"):
 
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
-            print(f"Refreshing expired YouTube token for [{lang}]...")
+            print(f"Refreshing expired YouTube token for [{lang.upper()}]...")
             try:
                 creds.refresh(Request())
             except Exception as e:
@@ -54,9 +54,22 @@ def get_authenticated_service(lang: str = "en"):
                 creds = None
 
         if not creds:
-            print(f"Initiating Google OAuth2 authorization for [{lang.upper()}] channel...")
+            print(f"\n🔑 Initiating Google OAuth2 authorization for [{lang.upper()}] channel...")
             flow = InstalledAppFlow.from_client_secrets_file(CLIENT_SECRET_FILE, SCOPES)
-            creds = flow.run_local_server(port=8080)
+            auth_url, _ = flow.authorization_url(prompt="consent", access_type="offline")
+            
+            print(f"\nOpening browser for Google sign-in...")
+            try:
+                subprocess.run(["open", auth_url], check=False)
+            except Exception:
+                pass
+                
+            print("\nIf the browser did NOT open, please copy & paste this link:")
+            print("-" * 65)
+            print(auth_url)
+            print("-" * 65 + "\n")
+            
+            creds = flow.run_local_server(port=8089, prompt="consent", open_browser=False)
 
         with open(token_file, "w") as token:
             token.write(creds.to_json())
