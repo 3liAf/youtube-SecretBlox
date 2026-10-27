@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Rendered outputs
+output/
+*.mp4
+*.mp3
+*.srt
+
+# Sensitive credentials
+config/credentials/*.json
+!config/credentials/.gitkeep
+!config/credentials/client_secret.example.json
+
+# OS specific
+.DS_Store
+Thumbs.db

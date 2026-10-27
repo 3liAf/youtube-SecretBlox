@@ -1,0 +1,157 @@
+[
+  {
+    "id": "secret_room_brookhaven",
+    "en": {
+      "title": "The Secret Room in Brookhaven They Tried to Hide",
+      "hook": "There is a secret room in Brookhaven that Roblox developers never wanted you to find.",
+      "body": "If you go behind the hospital and jump precisely into the corner of the broken wall, the physics engine glitches. Inside, there is a hidden vault with three screens showing real-time player locations. Some players believe this was left by a developer testing surveillance features, but others found a date etched into the wall: October 31st.",
+      "cta": "Did you know about this room? Comment 'SECRET' if you've already been inside!",
+      "keyword": "SECRET"
+    },
+    "de": {
+      "title": "Der geheime Raum in Brookhaven, den Roblox verstecken wollte",
+      "hook": "Es gibt einen geheimen Raum in Brookhaven, den die Entwickler niemals veröffentlichen wollten.",
+      "body": "Wenn du hinter das Krankenhaus gehst und genau in die Ecke der beschädigten Wand springst, stürzt die Physik kurz ab. Im Inneren befindet sich ein versteckter Raum mit drei Bildschirmen, die Live-Standorte von Spielern zeigen. Einige glauben, es war ein Entwicklertest – aber an der Wand steht ein unheimliches Datum: 31. Oktober.",
+      "cta": "Kanntest du diesen Raum? Schreib 'GEHEIM' in die Kommentare, wenn du schon drin warst!",
+      "keyword": "GEHEIM"
+    },
+    "es": {
+      "title": "La Habitación Secreta en Brookhaven que Intentaron Ocultar",
+      "hook": "Hay una habitación secreta en Brookhaven que los creadores nunca quisieron que descubrieras.",
+      "body": "Si vas detrás del hospital y saltas exactamente en la esquina de la pared rota, la física del juego se bugea. Dentro hay una bóveda secreta con tres pantallas que rastrean a los jugadores en tiempo real. Dicen que era una prueba secreta de moderadores, pero en la pared hay una fecha grabada: 31 de octubre.",
+      "cta": "¿Conocías este lugar? ¡Comenta 'SECRETO' si alguna vez entraste!",
+      "keyword": "SECRETO"
+    },
+    "fr": {
+      "title": "La Pièce Secrète de Brookhaven qu'ils ont Cachée",
+      "hook": "Il y a une pièce secrète dans Brookhaven que les développeurs ne voulaient absolument pas que tu trouves.",
+      "body": "Si tu vas derrière l'hôpital et que tu sautes précisément dans le coin du mur fissuré, le jeu bug. À l'intérieur se trouve une pièce cachée avec trois écrans qui surveillent les joueurs en direct. Certains pensent que c'était un outil de modération secret, mais une date terrifiante est gravée sur le mur : le 31 octobre.",
+      "cta": "Tu connaissais cette pièce ? Écris 'SECRET' en commentaire si tu y es déjà allé !",
+      "keyword": "SECRET"
+    }
+  },
+  {
+    "id": "illegal_games_deleted",
+    "en": {
+      "title": "3 Roblox Games That Feel Completely Illegal to Play",
+      "hook": "How are these games even allowed on Roblox? Number 3 got banned within four hours.",
+      "body": "First is 'The Blind Room', a game where your screen stays completely black until another player breathes into their microphone. Second is 'Memory 2007', an exact replica of an old Roblox server that slowly deletes your avatar items one by one. But the most terrifying was 'Don't Look Up'—if you turned your camera towards the sky, your game instantly crashed.",
+      "cta": "Would you play any of these? Comment 'GAME' and I'll test the most voted one!",
+      "keyword": "GAME"
+    },
+    "de": {
+      "title": "3 Roblox-Spiele, die sich absolut illegal anfühlen",
+      "hook": "Wie sind diese Spiele überhaupt auf Roblox erlaubt? Nummer 3 wurde nach nur 4 Stunden gelöscht.",
+      "body": "Erstens: 'The Blind Room' – dein Bildschirm bleibt komplett schwarz, bis ein anderer Spieler in sein Mikrofon atmet. Zweitens: 'Memory 2007', eine Kopie alter Server, die langsam Gegenstände deines Avatars löscht. Doch das Verrückteste war 'Don't Look Up': Sobald du nach oben in den Himmel geschaut hast, stürzte dein gesamtes Spiel ab.",
+      "cta": "Würdest du eins davon spielen? Schreib 'SPIEL' und ich teste das beliebteste!",
+      "keyword": "SPIEL"
+    },
+    "es": {
+      "title": "3 Juegos de Roblox que Parecen Completamente Ilegales",
+      "hook": "¿Cómo es posible que estos juegos existan en Roblox? El número 3 fue borrado en 4 horas.",
+      "body": "El primero es 'The Blind Room', donde tu pantalla está en total oscuridad hasta que otro jugador habla por micrófono. El segundo es 'Memory 2007', una copia que borra lentamente accesorios de tu avatar. Pero el más aterrador fue 'Don't Look Up': si mirabas hacia el cielo, tu juego se cerraba al instante.",
+      "cta": "¿Jugarías alguno? ¡Comenta 'JUEGO' y probaré el más votado!",
+      "keyword": "JUEGO"
+    },
+    "fr": {
+      "title": "3 Jeux Roblox qui Semblent Totalement Illégaux",
+      "hook": "Comment ces jeux sont-ils autorisés sur Roblox ? Le numéro 3 a été banni en 4 heures.",
+      "body": "Le premier s'appelle 'The Blind Room', un jeu où l'écran reste noir jusqu'à ce qu'un joueur parle au micro. Le deuxième est 'Memory 2007', une réplique étrange qui supprime peu à peu les accessoires de ton avatar. Mais le pire était 'Don't Look Up' : si tu levais les yeux vers le ciel, ton jeu crashait instantanément.",
+      "cta": "Tu oserais y jouer ? Écris 'JEU' et je testerai le plus demandé !",
+      "keyword": "JEU"
+    }
+  },
+  {
+    "id": "bacon_hair_origin",
+    "en": {
+      "title": "The Dark Secret of the Bacon Hair Avatar",
+      "hook": "Why does the Bacon Hair avatar look so sad? The true story is darker than you think.",
+      "body": "Back in 2014, Roblox introduced Pal Hair as the default look for all new accounts. But within months, toxic players started treating them as targets, banning them from VIP servers and calling them noobs. What most people never realized is that the original 3D model was designed by an intern who hid a tiny message underneath the hair mesh: 'Remember where you started.'",
+      "cta": "Are you team Bacon Hair or team Rich Avatar? Comment 'BACON' to support the underdogs!",
+      "keyword": "BACON"
+    },
+    "de": {
+      "title": "Das dunkle Geheimnis des Bacon Hair Avatars",
+      "hook": "Warum sieht der Bacon Hair Avatar so traurig aus? Die wahre Geschichte ist düster.",
+      "body": "Im Jahr 2014 führte Roblox dieses Haar als Standard-Look für alle neuen Accounts ein. Doch innerhalb weniger Monate wurden sie von reichen Spielern gemobbt und von VIP-Servern gekickt. Was fast niemand weiß: Der Entwickler versteckte damals eine geheime Nachricht unter dem Haarmodell: 'Vergiss niemals, wo du angefangen hast.'",
+      "cta": "Bist du Team Bacon Hair oder Team Reicher Avatar? Schreib 'BACON' in die Kommentare!",
+      "keyword": "BACON"
+    },
+    "es": {
+      "title": "El Oscuro Secreto del Avatar Bacon Hair",
+      "hook": "¿Por qué el avatar de pelo de tocino se ve tan triste? Su historia real te sorprenderá.",
+      "body": "En 2014, Roblox añadió este estilo por defecto para todos los novatos. Pero rápidamente los jugadores tóxicos comenzaron a burlarse de ellos y expulsarlos de servidores VIP. Lo que casi nadie sabe es que el diseñador original escondió un mensaje oculto dentro de la textura del cabello: 'Nunca olvides dónde empezaste.'",
+      "cta": "¿Eres Team Bacon Hair o Team Avatar Millonario? ¡Comenta 'BACON' para apoyarlos!",
+      "keyword": "BACON"
+    },
+    "fr": {
+      "title": "Le Sombre Secret de l'Avatar Bacon Hair",
+      "hook": "Pourquoi l'avatar Bacon Hair a-t-il l'air si triste ? La vérité est bien plus sombre.",
+      "body": "En 2014, Roblox a créé cette coupe par défaut pour tous les nouveaux joueurs. Mais très vite, les joueurs riches ont commencé à les exclure des serveurs VIP en les traitant de noobs. Pourtant, le créateur original avait caché un message sous les cheveux de l'avatar : 'N'oublie jamais d'où tu viens.'",
+      "cta": "Tu es Team Bacon Hair ou Team Avatar Riche ? Écris 'BACON' en commentaire !",
+      "keyword": "BACON"
+    }
+  },
+  {
+    "id": "zero_player_glitch",
+    "en": {
+      "title": "I Joined a Roblox Game With 0 Players... Then This Happened",
+      "hook": "Never join an empty Roblox game that has a completely blank thumbnail.",
+      "body": "Last night I searched for games with 0 active visits and clicked on one simply called 'Waiting Room'. At first, it was just an empty grey hallway with no sound. But after exactly 2 minutes of walking, the server count suddenly changed from 1 to 2. Another avatar appeared at the end of the hallway... and it was copying every single step I took.",
+      "cta": "What would you do if this happened? Comment 'LEAVE' or 'EXPLORE'!",
+      "keyword": "EXPLORE"
+    },
+    "de": {
+      "title": "Ich bin einem Spiel mit 0 Spielern beigetreten... Dann passierte DAS",
+      "hook": "Tritt niemals einem leeren Roblox-Spiel bei, das kein Vorschaubild hat.",
+      "body": "Gestern Nacht suchte ich nach Spielen mit 0 aktiven Spielern und klickte auf eines namens 'Waiting Room'. Anfangs war es nur ein grauer, stiller Flur. Doch nach exakt zwei Minuten änderte sich die Spieleranzahl von 1 auf 2. Am Ende des Korridors stand ein anderer Avatar... und er wiederholte jede einzelne meiner Bewegungen.",
+      "cta": "Was hättest du getan? Schreib 'FLIEHEN' oder 'WEITER' in die Kommentare!",
+      "keyword": "WEITER"
+    },
+    "es": {
+      "title": "Entré a un Juego de Roblox con 0 Jugadores... Y Pasó Esto",
+      "hook": "Nunca entres a un juego vacío de Roblox que no tenga imagen de portada.",
+      "body": "Anoche busqué juegos con cero visitas y encontré uno llamado 'Waiting Room'. Al inicio era solo un pasillo gris y silencioso. Pero tras exactamente dos minutos, el contador de jugadores cambió de uno a dos. Al fondo del pasillo apareció otro jugador... y empezó a imitar exactamente cada paso que yo daba.",
+      "cta": "¿Qué habrías hecho tú? ¡Comenta 'SALIR' o 'EXPLORAR'!",
+      "keyword": "EXPLORAR"
+    },
+    "fr": {
+      "title": "J'ai Rejoint un Jeu avec 0 Joueurs... Et Voici ce qui s'est Passé",
+      "hook": "Ne rejoins jamais un jeu Roblox vide sans aucune miniature.",
+      "body": "Hier soir, j'ai cherché des jeux avec zéro joueur et j'ai cliqué sur un jeu nommé 'Waiting Room'. Au début, c'était juste un couloir gris sans aucun bruit. Mais après deux minutes de marche, le nombre de joueurs est passé de un à deux. Un autre avatar est apparu au bout du couloir... et il copiait chacun de mes mouvements.",
+      "cta": "Qu'aurais-tu fait à ma place ? Écris 'FUIR' ou 'AVANCER' en commentaire !",
+      "keyword": "AVANCER"
+    }
+  },
+  {
+    "id": "impossible_obby",
+    "en": {
+      "title": "Can Anyone Beat The Most Impossible Obby in Roblox?",
+      "hook": "Only 3 people in the world have ever beaten stage 50 of this Roblox obstacle course.",
+      "body": "Every single jump requires frame-perfect timing, and the platforms shrink by 10% every second you stand on them. If you fail at any point, your character gets sent back to stage one. But at the final stage, there is an unreleased portal that supposedly teleports you into an unlisted developer sandbox.",
+      "cta": "Think you can beat it? Comment 'OBBY' and I'll drop the game link in the next video!",
+      "keyword": "OBBY"
+    },
+    "de": {
+      "title": "Kann jemand das unmöglichste Obby in Roblox schaffen?",
+      "hook": "Nur 3 Spieler weltweit haben jemals Level 50 dieses Hindernisparcours geschafft.",
+      "body": "Jeder Sprung erfordert perfektes Timing auf den Millimeter, und die Plattformen schrumpfen jede Sekunde um 10%. Wenn du fällst, wirst du komplett auf Level 1 zurückgesetzt. Doch am Ziel wartet ein geheimes Portal, das dich angeblich in ein unveröffentlichtes Entwickler-Level bringt.",
+      "cta": "Glaubst du, du schaffst das? Schreib 'OBBY' für den Link im nächsten Video!",
+      "keyword": "OBBY"
+    },
+    "es": {
+      "title": "¿Alguien Puede Pasar el Obby Más Imposible de Roblox?",
+      "hook": "Solo 3 personas en todo el mundo han logrado pasar el nivel 50 de este juego.",
+      "body": "Cada salto requiere precisión milimétrica y las plataformas se hacen 10% más pequeñas cada segundo. Si fallas una sola vez, regresas al nivel uno. Pero en la meta final hay un portal secreto que supuestamente te lleva a un mapa de pruebas nunca antes visto.",
+      "cta": "¿Crees que podrías pasarlo? ¡Comenta 'OBBY' y dejaré el link en el próximo video!",
+      "keyword": "OBBY"
+    },
+    "fr": {
+      "title": "Quelqu'un Peut-il Battre cet Obby Impossible sur Roblox ?",
+      "hook": "Seulement 3 personnes dans le monde ont réussi à terminer le niveau 50 de cet obby.",
+      "body": "Chaque saut demande un timing parfait et les plateformes rétrécissent de 10% chaque seconde. Si tu tombes une seule fois, tu recommences au niveau un. Mais à la toute fin, un portail secret te téléporte dans un monde de développement totalement privé.",
+      "cta": "Tu penses pouvoir le réussir ? Écris 'OBBY' et je partage le lien au prochain épisode !",
+      "keyword": "OBBY"
+    }
+  }
+]
